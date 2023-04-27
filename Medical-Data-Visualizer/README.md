@@ -42,3 +42,11 @@ Use the data to complete the following tasks in ```medical_data_visualizer.py```
 ### Execution
 
 [Link to project on Replit](https://replit.com/@MariaSylwiaR/medical-data-visualizer)
+
+Below you can see the resulting Figure_1 (catplot) and Figure_2 (heatmap).
+
+
+![catplot](https://user-images.githubusercontent.com/128125991/234954358-9acc748c-e6c9-4578-982e-aa8ec7270e6e.png)
+
+![heatmap](https://user-images.githubusercontent.com/128125991/234954377-6b61c5f1-8996-4982-a7fb-d5ee9143d639.png)
+
