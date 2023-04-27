@@ -18,3 +18,7 @@ Use the data to complete the following tasks:
 ### Execution
 
 [Link to project on Replit](https://replit.com/@MariaSylwiaR/sea-level-predictor)
+
+Below you can see the resulting graph.
+
+![sea_level_plot](https://user-images.githubusercontent.com/128125991/234953726-86acb6de-6094-4f77-ae43-58c1ff83ee6f.png)
