@@ -6,4 +6,4 @@ In the Data Analysis with Python Certification I learnt the fundamentals of data
 
 In above directories you can see all my projects created in this course.
 
-[Link to my cerificate](https://freecodecamp.org/certification/MariaR/data-analysis-with-python-v7)
+[🔗 Link to my cerificate](https://freecodecamp.org/certification/MariaR/data-analysis-with-python-v7)
