@@ -18,3 +18,13 @@ For each chart, make sure to use a copy of the data frame. Unit tests are writte
 ### Execution
 
 [Link to project on Replit](https://replit.com/@MariaSylwiaR/page-view-time-series-visualizer)
+
+Below you can see the resulting line chart, bar chart and 2 box plots.
+
+![line_plot](https://user-images.githubusercontent.com/128125991/234955364-f80a2751-cb45-4217-a35e-538392c25ae8.png)
+
+
+![bar_plot](https://user-images.githubusercontent.com/128125991/234955390-eb0d0175-dae8-410c-91ff-fcfcb48cd352.png)
+
+
+![box_plot](https://user-images.githubusercontent.com/128125991/234955406-b8da90a6-ccf1-49c7-ab18-1faeac31495a.png)
